@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right" width="500"></br>
+
 
 ## 👋🏻 Hello, this is Omer
 
