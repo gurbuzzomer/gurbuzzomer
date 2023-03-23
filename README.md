@@ -15,7 +15,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:gurbuzzomer@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@omerfarukgrbz)
 
-![](https://komarev.com/ghpvc/?username=selim-haspolat&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Omeko-FG&color=blue&style=for-the-badge)
 </br>
 </br>
 </br>
