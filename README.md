@@ -102,19 +102,20 @@
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 <h2 align="center">My Projects</h2>
 
-###
 
-Project Demo       |Libraries and Technologies I use     |Project Preview   
+## My projects
+  Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Vanilla JS Todo App](https://szrokmn.github.io/Todo-App/) <h3>[Repo](https://github.com/szrokmn/Todo-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/109314125/215288680-0123a845-7520-486c-8c3b-a0572b02b5c9.gif)
+[Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
+[Library App💅](https://github.com/Omeko-FG/library-app-react)| React, React Router,Styled Component💅,Rest API|![lib](https://user-images.githubusercontent.com/118957608/224615705-705a1805-0816-41ad-bc58-80c51bcadbcc.gif)
+[Interview Questions](https://github.com/Omeko-FG/interwiev-project-react)| React, CSS3 |![question](https://user-images.githubusercontent.com/118957608/221440375-4778654a-3907-49f3-a302-83f4f257d145.gif)
+[Football Legends](https://github.com/Omeko-FG/football-legends-react)| React, Tailwind CSS |![nba](https://user-images.githubusercontent.com/118957608/221441103-5b41b3c8-298f-4628-9409-cc7e1612ad82.gif)
+[Horoscope](https://github.com/Omeko-FG/horoscope-info)| React, SASS/SCSS |![horoscope](https://user-images.githubusercontent.com/118957608/221441522-db0dafdc-72aa-4b9f-bcde-6ed65950da1c.gif)
+[Weather App](https://github.com/Omeko-FG/Weather-Forecast)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation |![video](https://user-images.githubusercontent.com/118957608/215514463-aa4a219c-12f9-4448-ad10-bbf5b903bd86.gif)
+[Checkout Page JS](https://github.com/Omeko-FG/Checkout-Page-)|  Vanilla JavaScript, HTML5, CSS3, DOM Manipulation|![checkout](https://user-images.githubusercontent.com/118957608/213875489-18766d2e-e63f-4434-bdf7-9f5e578edd98.png)
+[Portfolio SASS ](https://github.com/Omeko-FG/wednasday-sass)|  HTML5, SASS|![sass](https://user-images.githubusercontent.com/118957608/221443026-51e47633-23a6-4c56-8dd7-cb9590b2a217.gif)
 
 
-
-<br>
-
-<h2 align="center">💡Most Used Language</h2>
-<div  align="center">
-<br/>
 <img
      src="https://github-readme-stats.vercel.app/api?username=Omeko-FG&theme=red-green"
      alt=""
