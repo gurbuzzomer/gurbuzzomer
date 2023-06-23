@@ -106,6 +106,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Stock App](https://github.com/Omeko-FG/StokApp-DJANGO-REACT-MUI-etc.)| React, React Router, React Redux, MUI, Django, DRF, Formik-Yup|![ezgif com-video-to-gif (11)](https://github.com/Omeko-FG/StokApp-DJANGO-REACT-MUI-etc./assets/119002766/ca4c1360-ce18-4631-8628-775bc59470ef)
 [Movie App](https://github.com/Omeko-FG/movie-site-REACT-TAILWIND-FIREBASE)| React, React Router,Tailwind, Firebase, Rest API|![ezgif com-video-to-gif (9)](https://github.com/Omeko-FG/movie-site-react/assets/119002766/967c6f22-710b-4773-8a5e-f73daca48187)
 [Library App💅](https://github.com/Omeko-FG/library-app-REACT-STYLED-COM)| React, React Router,Styled Component💅,Rest API|![ezgif com-video-to-gif (8)](https://github.com/Omeko-FG/library-app-REACT-STYLED-COM./assets/119002766/7892247c-55be-4139-9550-5441c1d203f2)
 [Hospital Site ](https://github.com/Omeko-FG/hospital-site-REACT-MUI-FIREBASE)| React, React Router, React-Redux, MUI, Firebase|![Hospital](https://user-images.githubusercontent.com/119002766/248254324-47c92120-751d-466f-8012-f043bed65c38.gif)
