@@ -106,18 +106,17 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Movie App](https://movie-app-nu-flame.vercel.app/)| React, React Router,Tailwind, Firebase, Rest API|![mov](https://user-images.githubusercontent.com/118957608/224515068-5be5fd5f-f1a9-4e2d-bcf1-4714758a5535.gif)
-[Library App💅](https://github.com/Omeko-FG/library-app-react)| React, React Router,Styled Component💅,Rest API|![lib](https://user-images.githubusercontent.com/118957608/224615705-705a1805-0816-41ad-bc58-80c51bcadbcc.gif)
+[Movie App](https://github.com/Omeko-FG/movie-site-REACT-TAILWIND-FIREBASE)| React, React Router,Tailwind, Firebase, Rest API|![ezgif com-video-to-gif (9)](https://github.com/Omeko-FG/movie-site-react/assets/119002766/967c6f22-710b-4773-8a5e-f73daca48187)
+[Library App💅](https://github.com/Omeko-FG/library-app-REACT-STYLED-COM)| React, React Router,Styled Component💅,Rest API|![ezgif com-video-to-gif (8)](https://github.com/Omeko-FG/library-app-REACT-STYLED-COM./assets/119002766/7892247c-55be-4139-9550-5441c1d203f2)
+[Hospital Site ](https://github.com/Omeko-FG/hospital-site-REACT-MUI-FIREBASE)| React, React Router, React-Redux, MUI, Firebase|![Hospital](https://user-images.githubusercontent.com/119002766/248254324-47c92120-751d-466f-8012-f043bed65c38.gif)
 [Interview Questions](https://github.com/Omeko-FG/interwiev-project-react)| React, CSS3 |![ezgif com-video-to-gif (1)](https://github.com/Omeko-FG/interwiev-project-react/assets/119002766/72cb7803-3a16-42ac-960e-27aface74477)
 [Horoscope](https://github.com/Omeko-FG/horoscope-info)| React, SASS/SCSS |![horoscope](https://user-images.githubusercontent.com/118957608/221441522-db0dafdc-72aa-4b9f-bcde-6ed65950da1c.gif)
-[Weather App](https://github.com/Omeko-FG/Weather-Forecast)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation |![video](https://user-images.githubusercontent.com/118957608/215514463-aa4a219c-12f9-4448-ad10-bbf5b903bd86.gif)
-[Checkout Page JS](https://github.com/Omeko-FG/Checkout-Page-)|  Vanilla JavaScript, HTML5, CSS3, DOM Manipulation|![Alt Text](https://github.com/Omeko-FG/react-project/blob/main/Stock-App/src/assets/result.svg)
+[Football Legends](https://github.com/Omeko-FG/football-legends-react)| React, Tailwind CSS |![ezgif com-video-to-gif (2)](https://github.com/Omeko-FG/football-legends-REACT/assets/119002766/e79e5b15-7567-4683-85ae-67c66cbfac13)
+[Weather App](https://github.com/Omeko-FG/Weather-Forecast-PURE-JS)| Vanilla JavaScript, HTML5, CSS3, DOM Manipulation |![ezgif com-video-to-gif (7)](https://github.com/Omeko-FG/Weather-Forecast-PURE-JS/assets/119002766/c467b671-e7c4-4c46-a734-e2b405d4985c)
 [WEDNESDAY SASS ](https://github.com/Omeko-FG/wednasday-sass)|  HTML5, SASS, PURE JS|![ezgif com-video-to-gif (4)](https://github.com/Omeko-FG/wednasday-SASS-SCSS/assets/119002766/2e58adc0-e394-4bb0-9424-71ec06782103)
-[Hospital Site ](https://github.com/Omeko-FG/hospital-site-REACT)|  HTML5, SASS|![sass](https://github.com/Omeko-FG/hospital-site-REACT/blame/main/Video_230602131356.mp4)
-[Football Legends](https://github.com/Omeko-FG/football-legends-react)| React, Tailwind CSS |![ezgif com-video-to-gif (2)](https://github.com/Omeko-FG/football-legends-REACT/assets/119002766/e79e5b15-7567-4683-85ae-67c66cbfac13))
 [Rock-Paper-Scrosis](https://github.com/Omeko-FG/rock-paper-scrosis-PURE-JS-CSS)|  DOM, PURE JS, CSS|![ezgif com-video-to-gif (1)](https://github.com/Omeko-FG/rock-paper-scrosis-PURE-JS-CSS/assets/119002766/d2180e03-6733-40a5-b274-2a618d9a6644)
 [Todo App ](https://github.com/Omeko-FG/to-do-list-app--PUREJS-BOOTSTARP)|  PURE JS, BOOTSTRAP|![ezgif com-video-to-gif (3)](https://github.com/Omeko-FG/to-do-app-2/assets/119002766/966577fa-a71a-4f84-9e72-b440938cd576)
-
+[Checkout Page ](https://github.com/Omeko-FG/Checkout-Page-PURE-JS-CSS)|  PURE JS, CSS, HTML|![ezgif com-video-to-gif (5)](https://github.com/Omeko-FG/Checkout-Page-PURE-JS-CSS/assets/119002766/2baa8f0d-beec-444c-9cd0-dbbb939e355a)
 
 
 
