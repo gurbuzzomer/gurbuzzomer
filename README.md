@@ -1,13 +1,16 @@
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right" width="500"></br>
+![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/Omeko-FG/backend-practice-DJANGO/assets/119002766/e740b629-5b64-4f12-a771-73d87aea3463)
 
+## 👋🏻 Hi, this is me Omer
 
-## 👋🏻 Hello, this is Omer
-
-<font color="pink">🧑🏻‍💻 I'm a Software Student. </font>
+<font color="pink">💻  I am currently working on web and mobile development. </font>
+</br>
+<font color="pink">🧑🏻‍💻 I am a Computer Programming student. </font>
 </br>
 <font color="pink">🌌 I want to cross the best roads to the future and make those paths. </font>
 </br>
-<font color="pink">🌃 I'm a night owl coding at night</font>
+<font color="pink">☕ The way I code coffee and music.</font>
+</br>
+<font color="pink">🌃 I'm a night owl coding at night.</font>
 
 #### 📬 Connect with me:
 
@@ -53,7 +56,7 @@
 
 </p>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-<h2 align="center">My Projects</h2>
+
 
 
 ## My projects
