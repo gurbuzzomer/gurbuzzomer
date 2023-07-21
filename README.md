@@ -24,9 +24,7 @@
 </br>
 ### 
 
-<div align="center">
-<img src="./profile-3d-contrib/profile-season-animate.svg"/>
-</div>
+
 
 ###
 <h2 align="center">🚀Technologies I Use🚀</h2>
