@@ -1,3 +1,6 @@
+/*<div align="center">*/
+/*<img src="./profile-3d-contrib/profile-season-animate.svg"/>*/
+/*</div>*/
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
