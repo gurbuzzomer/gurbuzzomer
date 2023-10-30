@@ -62,10 +62,10 @@
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 
 
-
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[portfolio](https://omerfarukgurbuz-com.vercel.app/)| React, Next, Tailwind, Framer Motion|![ezgif com-video-to-gif (12)](https://github.com/Omeko-FG/omerfarukgurbuz.com/assets/119002766/bb01a85e-26d3-4f20-98a6-f5ba6debd34d)
 [Stock App](https://stock-app-lilac.vercel.app/)| React, React Router, React Redux, MUI, Django, DRF, Formik-Yup|![ezgif com-video-to-gif (11)](https://github.com/Omeko-FG/StokApp-DJANGO-REACT-MUI-etc./assets/119002766/ca4c1360-ce18-4631-8628-775bc59470ef)
 [Movie App](https://github.com/Omeko-FG/movie-site-REACT-TAILWIND-FIREBASE)| React, React Router,Tailwind, Firebase, Rest API|![ezgif com-video-to-gif (9)](https://github.com/Omeko-FG/movie-site-react/assets/119002766/967c6f22-710b-4773-8a5e-f73daca48187)
 [Kanban Board](https://github.com/Omeko-FG/dataguess-kanban/)| React, React Redux,Tailwind, Next, React Beaytiful DND|![ezgif com-video-to-gif - kanban](https://github.com/Omeko-FG/dataguess-kanban/assets/119002766/8f803af6-e1eb-4abd-af83-143a88751f2c)
