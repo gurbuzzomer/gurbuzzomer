@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-3d-contrib/profile-season.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/Omeko-FG/backend-practice-DJANGO/assets/119002766/e740b629-5b64-4f12-a771-73d87aea3463)
 
 ## 👋🏻 Hi, this is me Omer
