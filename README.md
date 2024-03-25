@@ -67,7 +67,6 @@
 :-------------------------|-------------------------|-------------------------
 [portfolio](https://omerfarukgurbuz-com.vercel.app/)| React, Next, Tailwind, Framer Motion|![ezgif com-video-to-gif (12)](https://github.com/Omeko-FG/omerfarukgurbuz.com/assets/119002766/bb01a85e-26d3-4f20-98a6-f5ba6debd34d)
 [Letgo Mobile](https://omerfarukgurbuz-com.vercel.app/)| React Native, Expo, AWS, Amplify, DynamoDB, AppSync, Redux, GraphQL |![letgo-ezgif com-video-to-gif-converter](https://github.com/omerfaruk-gurbuz/omerfaruk-gurbuz/assets/119002766/34866499-bd0c-4bce-a533-97a0e07e57b9)
-
 [Getir Mobile](https://omerfarukgurbuz-com.vercel.app/)| React Native, Expo, AWS, Amplify, Redux, Jest, React Navigation |![getir-ezgif com-video-to-gif-converter](https://github.com/omerfaruk-gurbuz/omerfaruk-gurbuz/assets/119002766/05e5d708-e8ff-4e3f-a912-49b97372d76a))
 [Stock App](https://stock-app-lilac.vercel.app/)| React, React Router, React Redux, MUI, Django, DRF, Formik-Yup|![ezgif com-video-to-gif (11)](https://github.com/Omeko-FG/StokApp-DJANGO-REACT-MUI-etc./assets/119002766/ca4c1360-ce18-4631-8628-775bc59470ef)
 [Movie App](https://github.com/Omeko-FG/movie-site-REACT-TAILWIND-FIREBASE)| React, React Router,Tailwind, Firebase, Rest API|![ezgif com-video-to-gif (9)](https://github.com/Omeko-FG/movie-site-react/assets/119002766/967c6f22-710b-4773-8a5e-f73daca48187)
