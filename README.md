@@ -64,7 +64,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[portfolio](https://omerfarukgurbuzcom.vercel.app/)| React, Next, Tailwind, Framer Motion|![Video_240517095611](https://github.com/omerfaruk-gurbuz/omerfaruk-gurbuz/assets/119002766/55886d48-6285-4c64-927b-9ff127a2e852)
+[portfolio](https://omerfarukgurbuz.vercel.app/)| React, Next, Tailwind, Framer Motion|![Video_240517095611](https://github.com/omerfaruk-gurbuz/omerfaruk-gurbuz/assets/119002766/55886d48-6285-4c64-927b-9ff127a2e852)
 [Letgo Mobile]()| React Native, Expo, AWS, Amplify, Cognito, DynamoDB, AppSync, Redux, GraphQL |![letgo-ezgif com-video-to-gif-converter](https://github.com/omerfaruk-gurbuz/omerfaruk-gurbuz/assets/119002766/34866499-bd0c-4bce-a533-97a0e07e57b9)
 [Getir Mobile]()| React Native, Expo, AWS, Amplify, Redux-Toolkit, Jest, React Navigation |![getir-ezgif com-video-to-gif-converter](https://github.com/omerfaruk-gurbuz/omerfaruk-gurbuz/assets/119002766/05e5d708-e8ff-4e3f-a912-49b97372d76a)
 [Stock App](https://stock-app-lilac.vercel.app/)| React, React Router, React Redux, MUI, Django, DRF, Formik-Yup|![ezgif com-video-to-gif (11)](https://github.com/Omeko-FG/StokApp-DJANGO-REACT-MUI-etc./assets/119002766/ca4c1360-ce18-4631-8628-775bc59470ef)
