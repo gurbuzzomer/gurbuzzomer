@@ -2,15 +2,11 @@
 
 ## 👋🏻 Hi, this is me Omer
 
-<font color="pink">💻  I am currently working on web and mobile development. </font>
-</br>
-<font color="pink">🧑🏻‍💻 I am a Computer Programming student. </font>
-</br>
-<font color="pink">🌌 I want to cross the best roads to the future and make those paths. </font>
-</br>
-<font color="pink">☕ The way I code coffee and music.</font>
-</br>
-<font color="pink">🌃 I'm a night owl coding at night.</font>
+  Fullstack developer with 5+ years of experience in web and mobile application development. Specialized in frontend technologies including HTML, CSS, JavaScript, React, and Next.js Experienced in backend development using Node.js, Express.js, Django/DRF, and skilled in working with PostgreSQL, MySQL, Firebase, and AWS services.
+
+  Actively working on Saas growth strategies such as retention, monetization, and user engagement. Leading projects under the Vibe Coding label, delivering end-to-end solutions from product idea to scalable deployment.
+
+  ​Strong focus on clean code, user experience, and performance optimization. Achieved notable improvements such as increasing conversion through design and development enhancements. Passionate about leveraging AI tools like OpenAI, Cursor, and GitHub Copilot to accelerate development and innovation.
 
 #### 📬 Connect with me:
 
